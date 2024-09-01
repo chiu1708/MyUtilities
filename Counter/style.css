@@ -1,0 +1,34 @@
+body {
+    min-height: 100vh;
+    background-color: #282c34;
+    position: relative;
+}
+
+.container {
+    cursor: pointer;
+}
+
+h1 {
+    font-size: 250px;
+    color: #abb2bf;
+    font-family: "Orbitron";
+    user-select: none;
+}
+
+.buttons-container {
+    position: absolute;
+    width: 100%;
+    z-index: 5;
+    bottom: 10px;
+}
+.reset-button {
+    width: 50px;
+    height: 50px;
+}
+.reset-button:hover {
+    color: #282c34;
+}
+
+.btn {
+    margin: 10px;
+}

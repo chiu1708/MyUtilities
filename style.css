@@ -1,0 +1,7 @@
+body {
+    min-height: 100vh;
+    background-color: #282c34;
+}
+.utility-link:hover {
+    color: #282c34;
+}
