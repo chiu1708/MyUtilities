@@ -22,6 +22,8 @@ Use the most basic language and framework of web development
 - [JS] - Foundation language of every features in this app
 
 ## Installation
+Just visit this link and use: [link](https://harmonious-alder-viscount.glitch.me/)
+Or if you want to customize:
 - Just download the code
 - Then run it in VsCode Live Server || deploy to any web hosting
 
